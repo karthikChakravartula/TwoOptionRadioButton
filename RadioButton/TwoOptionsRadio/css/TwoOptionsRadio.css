@@ -1,0 +1,11 @@
+.twooptions-radio-root {
+  display: flex;
+  gap: 16px;
+  align-items: center;
+}
+
+.twooptions-radio-option {
+  display: inline-flex;
+  gap: 6px;
+  align-items: center;
+}

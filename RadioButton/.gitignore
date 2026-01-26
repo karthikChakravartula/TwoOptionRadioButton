@@ -1,0 +1,24 @@
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# PCF build outputs
+out/
+dist/
+build/
+generated/
+*.tsbuildinfo
+
+# OS/IDE
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+.DS_Store
+Thumbs.db
+
+# Secrets
+*.user
+*.suo
+.env
